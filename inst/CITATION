@@ -1,0 +1,12 @@
+bibentry(
+  bibtype = "Article",
+  textVersion = "S. P. Gilroy. (2023). FXL: Faux XL single-case charting package.",
+  header = "To cite fxl in publications, please use",
+  author = "Shawn P. Gilroy",
+  title = "fxl: Faux XL single-case charting package",
+  publisher = "In Development",
+  journal = "In Development",
+  year = "2023",
+  doi = "10.5281/zenodo.5758834",
+  url = "https://github.com/miyamot0/fxl",
+)

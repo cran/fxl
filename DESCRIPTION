@@ -1,7 +1,7 @@
 Package: fxl
 Type: Package
 Title: 'fxl' Single Case Design Charting Package
-Version: 1.7.0
+Version: 1.7.1
 Authors@R: person(given = "Shawn",
            family = "Gilroy",
            role = c("aut", "cre", "cph"),
@@ -13,12 +13,12 @@ Description: The 'fxl' Charting package is used to prepare and design single cas
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 4.1), rlang, grImport
+Depends: R (>= 4.1), rlang
 RoxygenNote: 7.2.3
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-06-02 00:01:01 UTC; shawn
+Packaged: 2024-06-05 18:48:24 UTC; shawn
 Author: Shawn Gilroy [aut, cre, cph] (<https://orcid.org/0000-0002-1097-8366>)
 Maintainer: Shawn Gilroy <sgilroy1@lsu.edu>
 Repository: CRAN
-Date/Publication: 2024-06-02 09:02:46 UTC
+Date/Publication: 2024-06-05 21:40:37 UTC
